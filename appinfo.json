@@ -1,10 +1,10 @@
 {
   "id": "com.sample.hosted",
-  "version": "2.0.0",
-  "vendor": "LG Developer",
+  "version": "1.0.0",
+  "vendor": "Mstrblueskys",
   "type": "web",
   "main": "index.html",
-  "title": "Hosted App",
+  "title": "Lakeland PBS",
   "icon": "icon.png",
   "largeIcon": "largeIcon.png",
   "uiRevision": 2
